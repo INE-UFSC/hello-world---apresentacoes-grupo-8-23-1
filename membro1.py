@@ -1,2 +1,3 @@
 def hello():
-	return "Olá, eu sou o membro1" #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+	return "Olá, eu sou o João Vittor Braz de Oliveira. Tenho como hobbies ler, jogar, assistir basquete. Minha experiência de programação, além do semestre anterior, foi somente estudar C por conta. Espero bastante desafios nessa matéria, além de conseguir experiência e conhecimento na área"
+
